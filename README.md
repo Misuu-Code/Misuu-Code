@@ -33,9 +33,9 @@ FYI: "I want to be a Cybersecurity specialist"
   <img src="https://skillicons.dev/icons?i=python,nodejs,linux,windows" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> Support My Work
+## 🚀 Support This Project
 
 <div align="center">
-  <p>if you like my project and best options for you, thanks for choosing me<p>
+  <p>If this project helps you, please consider supporting it. Your support motivates me to keep building.<p>
   <sub>Thanks for Read, Have a great day!</sub>
 </div>
