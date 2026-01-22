@@ -23,7 +23,7 @@ const misuu-code = {
 location: "Indonesia",
 learninng: ["JavaScript", "Python"],
 enviroment: "Linux | Windows",
-FYi: "In my mind i be CyberSecurity"
+FYI: "I want to be a Cybersecurity specialist"
 };
 ```
 
