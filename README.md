@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 i`m Misuu-Code
 
-<!--
-**Misuu-Code/Misuu-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Beginner Developer from **Indonesian**
+## My taste by coffe and money
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+```js
+const misuu-code = {
+location: "Indonesia",
+learninng: ["JavaScript", "Python"],
+enviroment: "Linuxx | Windows",
+FYi: "In my mind i be CyberSecurity"
+};
+```
