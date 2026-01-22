@@ -5,7 +5,7 @@
 
 <p>
   <em>I`m Beginner Developer from **Indonesian**</em><br>
-  <em>My taste by coffe and money</em><br>
+  <em>My taste is coffe, listening music and money</em><br>
 </p>
 
  <a href="https://discord.com/users/1175491794625118238">
